@@ -1,9 +1,3 @@
-# Cara
-
-Here’s a sample **README.md** text for your Cara Ecommerce Website project:
-
----
-
 # Cara Ecommerce Website
 
 A modern, responsive ecommerce website built with HTML, CSS, and JavaScript.  
