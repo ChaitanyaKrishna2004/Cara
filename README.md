@@ -6,7 +6,7 @@ Browse products, read the blog, and enjoy a seamless shopping experience.
 **Live Demo:**  
 [https://chaitanyakrishna2004.github.io/Cara/](https://chaitanyakrishna2004.github.io/Cara/)
 
-## What I Learned
+## What I Learned 📕📕📕📑📑📑
 
 - **Flexbox & CSS Grid:**  
   Used Flexbox and CSS Grid to create flexible, responsive layouts for product grids, navigation bars, and footers.
@@ -26,7 +26,7 @@ Browse products, read the blog, and enjoy a seamless shopping experience.
 - **Professional Web Practices:**  
   Learned how to structure HTML and CSS for maintainability, scalability, and reusability in real-world projects.
 
-## Features
+## Features 
 
 - Responsive design for desktop and mobile
 - Product catalog with categories
