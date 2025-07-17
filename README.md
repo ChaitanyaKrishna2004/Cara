@@ -40,3 +40,21 @@ Browse products, read the blog, and enjoy a seamless shopping experience.
 - img – Images used in the site
 
 
+## Technologies Used
+
+- **HTML5**: For structuring the web pages and content.
+- **CSS3**: For styling, layout, responsiveness, and animations.
+- **JavaScript (ES6+)**: For interactivity and dynamic content.
+- **Font Awesome**: For scalable vector icons.
+- **Google Fonts**: For custom typography.
+
+## JavaScript Concepts Used
+
+- **DOM Manipulation**: Selecting and modifying HTML elements dynamically.
+- **Event Handling**: Adding click events for navigation, menu toggling, and buttons.
+- **Responsive Navigation**: Showing/hiding the mobile menu with JavaScript.
+- **Redirection**: Navigating to different pages on button clicks.
+- **Class Manipulation**: Adding/removing classes to control UI states (e.g., navbar active state).
+- **Loops and Conditionals**: Iterating over elements and checking conditions for event binding.
+
+
