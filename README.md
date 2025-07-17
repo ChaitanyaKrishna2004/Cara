@@ -39,13 +39,4 @@ Browse products, read the blog, and enjoy a seamless shopping experience.
 - app.js – JavaScript for interactivity
 - img – Images used in the site
 
-## Customization
-
-- Update product images and details in the HTML files.
-- Change colors and layout in style.css.
-- Add or modify JavaScript in app.js for more features.
-
-## License
-
-This project is for educational and demonstration purposes.
 
