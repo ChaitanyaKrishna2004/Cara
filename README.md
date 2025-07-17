@@ -55,7 +55,3 @@ Browse products, read the blog, and enjoy a seamless shopping experience.
 
 This project is for educational and demonstration purposes.
 
----
-
-You can copy and paste this into your `README.md` file.  
-Replace any details as needed!
