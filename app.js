@@ -13,3 +13,21 @@ if (close) {
     nav.classList.remove("active");
   });
 }
+
+const shopnow = document.getElementsByClassName("shopnow");
+
+for (let i = 0; i < shopnow.length; i++) {
+  shopnow[i].addEventListener("click", function () {
+    window.location.href = "shop.html";
+  });
+}
+
+const exploreBtns = document.querySelectorAll("button.normal");
+
+exploreBtns.forEach((btn) => {
+  if (btn.textContent.trim() === "Explore More") {
+    btn.addEventListener("click", function () {
+      window.location.href = "shop.html";
+    });
+  }
+});
